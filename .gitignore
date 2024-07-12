@@ -2,6 +2,10 @@
 /build/
 !gradle/wrapper/gradle-wrapper.jar
 
+### direnv ###
+/.envrc
+/.direnv
+
 ### STS ###
 .apt_generated
 .classpath
