@@ -53,3 +53,6 @@ pagehelper:
 upload:
   file-directory: ./uploads
   keep-name: true
+
+download:
+  domain: http://localhost:1111/update/apk/
